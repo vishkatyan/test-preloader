@@ -1,1 +1,1 @@
-## CSS Loader Anaimation
+## CSS Loader Animation
