@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: "Montserrat", sans-serif;
+}
+
+.loader-wrapper {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.loader-wrapper .load iframe {
+  border: none;
+  height: 100vh;
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
